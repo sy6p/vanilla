@@ -1,1 +1,1 @@
-# vanity
+# vanilla
